@@ -1,0 +1,9 @@
+Dr.devraj|Obstetrics|MBBS MD|+1000****01|500.00
+Dr.devya|Gynecologist|MBBS, MS|+1000****02|700.00
+Dr.elson|Children Specialist|MBBS, MD|+1000****03|600.00
+Dr.frank|General Physician|MBBS, PHD|+1000****04|500.00
+Dr.mark|General Physician|MBBS, MD|+1000****05|550.00
+Dr.prasad|General Physician|MBBS|+1000****06|400.00
+Dr.sania|Dermatologist|MBBS, MD|+1000****07|600.00
+Dr.strange|Pscologicalist|MBBS, PHD|+1000****08|800.00
+Dr.vanu|Anesthesiology|MBBS, MD|+1000****09|650.00

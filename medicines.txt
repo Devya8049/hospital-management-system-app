@@ -1,0 +1,24 @@
+Paracetamol|10.0
+Ibuprofen|15.0
+Amoxicillin|25.0
+Cetirizine|12.0
+Azithromycin|30.0
+Metformin|18.0
+Amlodipine|20.0
+Omeprazole|22.0
+Atorvastatin|28.0
+Salbutamol|16.0
+Dolo 650|14.0
+Pantoprazole|19.0
+Levocetirizine|13.0
+Ciprofloxacin|27.0
+Diclofenac|17.0
+Ranitidine|11.0
+Losartan|21.0
+Montelukast|23.0
+Dexamethasone|26.0
+Clopidogrel|29.0
+Antihistamine|20.0
+Loratadine|50.0
+Iron Supplement|59.0
+Folic Acid|70.0
